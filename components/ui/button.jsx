@@ -11,12 +11,12 @@ const buttonVariants = cva(
       variant: {
         default: "bg-accent text-primary hover:bg-accent-hover",
         primary: "bg-primary text-white",
-        outline: "border border-accent bg-transparent text-accent hover:bg-accent-hover:text-primary", 
+        outline: "border border-accent bg-transparent text-accent hover:bg-accent hover:text-primary", 
       },
       size: {
         default: "h-10 px-4 py-2",
         md: "h-[48px] px-6",
-        lg: "h-[56px] px-8",
+        lg: "h-[56px] px-8 text-sm uppercase trackiing-[2px]",
       },
     },
     defaultVariants: {

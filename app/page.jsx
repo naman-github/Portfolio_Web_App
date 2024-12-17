@@ -15,7 +15,7 @@ const Home = () => {
               Hello I&apos;m <br /> <span className="text-accent">Naman Sharma</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              I excel at crafting elegant degital experiences that captivate
+              I excel at crafting elegant digital experiences that captivate
               users and drive business success.
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
